@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oioii\\source\\repos\\oioiieii\\my_projects\\PortModel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7442AB1F-44C4-440A-B80D-4378A6DC2E3C}|TP_Project\\TP_Project.vcxproj|C:\\Users\\oioii\\source\\repos\\oioiieii\\my_projects\\PortModel\\TP_Project\\Ship.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7442AB1F-44C4-440A-B80D-4378A6DC2E3C}|TP_Project\\TP_Project.vcxproj|solutionrelative:TP_Project\\Ship.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7442AB1F-44C4-440A-B80D-4378A6DC2E3C}|TP_Project\\TP_Project.vcxproj|C:\\Users\\oioii\\source\\repos\\oioiieii\\my_projects\\PortModel\\TP_Project\\Intro.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{7442AB1F-44C4-440A-B80D-4378A6DC2E3C}|TP_Project\\TP_Project.vcxproj|solutionrelative:TP_Project\\Intro.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7442AB1F-44C4-440A-B80D-4378A6DC2E3C}|TP_Project\\TP_Project.vcxproj|C:\\Users\\oioii\\source\\repos\\oioiieii\\my_projects\\PortModel\\TP_Project\\CppCLR_WinFormsProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7442AB1F-44C4-440A-B80D-4378A6DC2E3C}|TP_Project\\TP_Project.vcxproj|solutionrelative:TP_Project\\CppCLR_WinFormsProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7442AB1F-44C4-440A-B80D-4378A6DC2E3C}|TP_Project\\TP_Project.vcxproj|C:\\Users\\oioii\\source\\repos\\oioiieii\\my_projects\\PortModel\\TP_Project\\Intro.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7442AB1F-44C4-440A-B80D-4378A6DC2E3C}|TP_Project\\TP_Project.vcxproj|solutionrelative:TP_Project\\Intro.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7442AB1F-44C4-440A-B80D-4378A6DC2E3C}|TP_Project\\TP_Project.vcxproj|C:\\Users\\oioii\\source\\repos\\oioiieii\\my_projects\\PortModel\\TP_Project\\Intro.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7442AB1F-44C4-440A-B80D-4378A6DC2E3C}|TP_Project\\TP_Project.vcxproj|solutionrelative:TP_Project\\Intro.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7442AB1F-44C4-440A-B80D-4378A6DC2E3C}|TP_Project\\TP_Project.vcxproj|C:\\Users\\oioii\\source\\repos\\oioiieii\\my_projects\\PortModel\\TP_Project\\FinishPaths.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7442AB1F-44C4-440A-B80D-4378A6DC2E3C}|TP_Project\\TP_Project.vcxproj|solutionrelative:TP_Project\\FinishPaths.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7442AB1F-44C4-440A-B80D-4378A6DC2E3C}|TP_Project\\TP_Project.vcxproj|C:\\Users\\oioii\\source\\repos\\oioiieii\\my_projects\\PortModel\\TP_Project\\AssemblyInfo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7442AB1F-44C4-440A-B80D-4378A6DC2E3C}|TP_Project\\TP_Project.vcxproj|solutionrelative:TP_Project\\AssemblyInfo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7442AB1F-44C4-440A-B80D-4378A6DC2E3C}|TP_Project\\TP_Project.vcxproj|C:\\Users\\oioii\\source\\repos\\oioiieii\\my_projects\\PortModel\\TP_Project\\Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7442AB1F-44C4-440A-B80D-4378A6DC2E3C}|TP_Project\\TP_Project.vcxproj|solutionrelative:TP_Project\\Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7442AB1F-44C4-440A-B80D-4378A6DC2E3C}|TP_Project\\TP_Project.vcxproj|C:\\Users\\oioii\\source\\repos\\oioiieii\\my_projects\\PortModel\\TP_Project\\Parent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7442AB1F-44C4-440A-B80D-4378A6DC2E3C}|TP_Project\\TP_Project.vcxproj|solutionrelative:TP_Project\\Parent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7442AB1F-44C4-440A-B80D-4378A6DC2E3C}|TP_Project\\TP_Project.vcxproj|C:\\Users\\oioii\\source\\repos\\oioiieii\\my_projects\\PortModel\\TP_Project\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7442AB1F-44C4-440A-B80D-4378A6DC2E3C}|TP_Project\\TP_Project.vcxproj|solutionrelative:TP_Project\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7442AB1F-44C4-440A-B80D-4378A6DC2E3C}|TP_Project\\TP_Project.vcxproj|C:\\Users\\oioii\\source\\repos\\oioiieii\\my_projects\\PortModel\\TP_Project\\Intro.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{7442AB1F-44C4-440A-B80D-4378A6DC2E3C}|TP_Project\\TP_Project.vcxproj|solutionrelative:TP_Project\\Intro.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7442AB1F-44C4-440A-B80D-4378A6DC2E3C}|TP_Project\\TP_Project.vcxproj|C:\\Users\\oioii\\source\\repos\\oioiieii\\my_projects\\PortModel\\TP_Project\\Resource.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7442AB1F-44C4-440A-B80D-4378A6DC2E3C}|TP_Project\\TP_Project.vcxproj|solutionrelative:TP_Project\\Resource.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ship.h",
+              "DocumentMoniker": "C:\\Users\\oioii\\source\\repos\\oioiieii\\my_projects\\PortModel\\TP_Project\\Ship.h",
+              "RelativeDocumentMoniker": "TP_Project\\Ship.h",
+              "ToolTip": "C:\\Users\\oioii\\source\\repos\\oioiieii\\my_projects\\PortModel\\TP_Project\\Ship.h",
+              "RelativeToolTip": "TP_Project\\Ship.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAN8FAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-06T08:46:44.229Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Intro.h [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\oioii\\source\\repos\\oioiieii\\my_projects\\PortModel\\TP_Project\\Intro.h",
+              "RelativeDocumentMoniker": "TP_Project\\Intro.h",
+              "ToolTip": "D:\\my_projects\\TP_Project\\TP_Project\\Intro.h [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-08T07:38:50.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CppCLR_WinFormsProject.cpp",
+              "DocumentMoniker": "C:\\Users\\oioii\\source\\repos\\oioiieii\\my_projects\\PortModel\\TP_Project\\CppCLR_WinFormsProject.cpp",
+              "RelativeDocumentMoniker": "TP_Project\\CppCLR_WinFormsProject.cpp",
+              "ToolTip": "C:\\Users\\oioii\\source\\repos\\oioiieii\\my_projects\\PortModel\\TP_Project\\CppCLR_WinFormsProject.cpp",
+              "RelativeToolTip": "TP_Project\\CppCLR_WinFormsProject.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-08T07:38:32.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Resource.h",
+              "DocumentMoniker": "C:\\Users\\oioii\\source\\repos\\oioiieii\\my_projects\\PortModel\\TP_Project\\resource.h",
+              "RelativeDocumentMoniker": "TP_Project\\resource.h",
+              "ToolTip": "C:\\Users\\oioii\\source\\repos\\oioiieii\\my_projects\\PortModel\\TP_Project\\resource.h",
+              "RelativeToolTip": "TP_Project\\resource.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-08T07:38:18.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Parent.h",
+              "DocumentMoniker": "C:\\Users\\oioii\\source\\repos\\oioiieii\\my_projects\\PortModel\\TP_Project\\Parent.h",
+              "RelativeDocumentMoniker": "TP_Project\\Parent.h",
+              "ToolTip": "C:\\Users\\oioii\\source\\repos\\oioiieii\\my_projects\\PortModel\\TP_Project\\Parent.h",
+              "RelativeToolTip": "TP_Project\\Parent.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-08T07:38:12.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "pch.h",
+              "DocumentMoniker": "C:\\Users\\oioii\\source\\repos\\oioiieii\\my_projects\\PortModel\\TP_Project\\pch.h",
+              "RelativeDocumentMoniker": "TP_Project\\pch.h",
+              "ToolTip": "C:\\Users\\oioii\\source\\repos\\oioiieii\\my_projects\\PortModel\\TP_Project\\pch.h",
+              "RelativeToolTip": "TP_Project\\pch.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-08T07:38:10.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Intro.resx",
+              "DocumentMoniker": "C:\\Users\\oioii\\source\\repos\\oioiieii\\my_projects\\PortModel\\TP_Project\\Intro.resx",
+              "RelativeDocumentMoniker": "TP_Project\\Intro.resx",
+              "ToolTip": "C:\\Users\\oioii\\source\\repos\\oioiieii\\my_projects\\PortModel\\TP_Project\\Intro.resx",
+              "RelativeToolTip": "TP_Project\\Intro.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-04-08T07:37:15.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Intro.cpp",
+              "DocumentMoniker": "C:\\Users\\oioii\\source\\repos\\oioiieii\\my_projects\\PortModel\\TP_Project\\Intro.cpp",
+              "RelativeDocumentMoniker": "TP_Project\\Intro.cpp",
+              "ToolTip": "C:\\Users\\oioii\\source\\repos\\oioiieii\\my_projects\\PortModel\\TP_Project\\Intro.cpp",
+              "RelativeToolTip": "TP_Project\\Intro.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-08T07:37:09.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Resource.resx",
+              "DocumentMoniker": "C:\\Users\\oioii\\source\\repos\\oioiieii\\my_projects\\PortModel\\TP_Project\\Resource.resx",
+              "RelativeDocumentMoniker": "TP_Project\\Resource.resx",
+              "ToolTip": "C:\\Users\\oioii\\source\\repos\\oioiieii\\my_projects\\PortModel\\TP_Project\\Resource.resx",
+              "RelativeToolTip": "TP_Project\\Resource.resx",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAIwHkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-09-17T07:17:45.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssemblyInfo.cpp",
+              "DocumentMoniker": "C:\\Users\\oioii\\source\\repos\\oioiieii\\my_projects\\PortModel\\TP_Project\\AssemblyInfo.cpp",
+              "RelativeDocumentMoniker": "TP_Project\\AssemblyInfo.cpp",
+              "ToolTip": "C:\\Users\\oioii\\source\\repos\\oioiieii\\my_projects\\PortModel\\TP_Project\\AssemblyInfo.cpp",
+              "RelativeToolTip": "TP_Project\\AssemblyInfo.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-29T10:50:55.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FinishPaths.cpp",
+              "DocumentMoniker": "C:\\Users\\oioii\\source\\repos\\oioiieii\\my_projects\\PortModel\\TP_Project\\FinishPaths.cpp",
+              "RelativeDocumentMoniker": "TP_Project\\FinishPaths.cpp",
+              "ToolTip": "C:\\Users\\oioii\\source\\repos\\oioiieii\\my_projects\\PortModel\\TP_Project\\FinishPaths.cpp",
+              "RelativeToolTip": "TP_Project\\FinishPaths.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-29T10:56:15.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Intro.h",
+              "DocumentMoniker": "C:\\Users\\oioii\\source\\repos\\oioiieii\\my_projects\\PortModel\\TP_Project\\Intro.h",
+              "RelativeDocumentMoniker": "TP_Project\\Intro.h",
+              "ToolTip": "C:\\Users\\oioii\\source\\repos\\oioiieii\\my_projects\\PortModel\\TP_Project\\Intro.h",
+              "RelativeToolTip": "TP_Project\\Intro.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-13T15:25:36.097Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

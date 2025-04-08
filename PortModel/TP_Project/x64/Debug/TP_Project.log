@@ -1,0 +1,873 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  CppCLR_WinFormsProject.cpp
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(196,83): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(196,57): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(197,82): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(197,56): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(198,81): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(198,56): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(199,82): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(199,57): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(228,92): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(228,66): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(229,91): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(229,65): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(230,90): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(230,65): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(231,91): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(231,66): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(235,20): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(252,58): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(252,34): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(253,58): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(253,34): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(254,58): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(254,34): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(255,58): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(255,34): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(258,103): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(258,58): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(259,103): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(259,58): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(260,103): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(260,58): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(261,103): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(261,58): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(264,102): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(264,57): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(265,102): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(265,57): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(266,102): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(266,57): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(267,102): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(267,57): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(271,20): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(390,46): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(422,54): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(422,89): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(493,29): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(502,99): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(502,62): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(503,98): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(503,61): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(504,97): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(504,61): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(505,98): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(505,62): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(549,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(550,18): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(555,77): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(555,62): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(648,142): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(648,86): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(651,164): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(651,87): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(655,113): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(655,57): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(656,113): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(656,57): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(1073,30): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(1317,75): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(1317,46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(1470,16): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(1488,16): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(1496,16): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+  FinishPaths.cpp
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(196,83): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(196,57): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(197,82): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(197,56): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(198,81): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(198,56): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(199,82): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(199,57): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(228,92): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(228,66): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(229,91): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(229,65): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(230,90): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(230,65): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(231,91): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(231,66): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(235,20): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(252,58): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(252,34): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(253,58): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(253,34): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(254,58): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(254,34): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(255,58): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(255,34): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(258,103): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(258,58): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(259,103): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(259,58): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(260,103): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(260,58): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(261,103): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(261,58): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(264,102): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(264,57): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(265,102): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(265,57): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(266,102): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(266,57): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(267,102): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(267,57): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(271,20): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(390,46): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(422,54): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(422,89): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(493,29): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(502,99): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(502,62): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(503,98): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(503,61): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(504,97): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(504,61): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(505,98): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(505,62): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(549,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(550,18): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(555,77): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(555,62): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(648,142): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(648,86): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(651,164): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(651,87): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(655,113): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(655,57): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(656,113): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(656,57): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(1073,30): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(1317,75): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(1317,46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(1470,16): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(1488,16): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(1496,16): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "/FinishPaths.cpp")
+  
+  Intro.cpp
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(196,83): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(196,57): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(197,82): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(197,56): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(198,81): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(198,56): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(199,82): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(199,57): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(228,92): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(228,66): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(229,91): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(229,65): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(230,90): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(230,65): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(231,91): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(231,66): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(235,20): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(252,58): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(252,34): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(253,58): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(253,34): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(254,58): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(254,34): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(255,58): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(255,34): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(258,103): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(258,58): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(259,103): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(259,58): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(260,103): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(260,58): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(261,103): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(261,58): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(264,102): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(264,57): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(265,102): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(265,57): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(266,102): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(266,57): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(267,102): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(267,57): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(271,20): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(390,46): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(422,54): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(422,89): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(493,29): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(502,99): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(502,62): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(503,98): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(503,61): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(504,97): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(504,61): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(505,98): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(505,62): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(549,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(550,18): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(555,77): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(555,62): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(648,142): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(648,86): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(651,164): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(651,87): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(655,113): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(655,57): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(656,113): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(656,57): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(1073,30): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(1317,75): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(1317,46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(1470,16): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(1488,16): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(1496,16): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "/Intro.cpp")
+  
+  Shop.cpp
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(196,83): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(196,57): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(197,82): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(197,56): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(198,81): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(198,56): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(199,82): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(199,57): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(228,92): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(228,66): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(229,91): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(229,65): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(230,90): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(230,65): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(231,91): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(231,66): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(235,20): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(252,58): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(252,34): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(253,58): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(253,34): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(254,58): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(254,34): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(255,58): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(255,34): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(258,103): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(258,58): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(259,103): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(259,58): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(260,103): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(260,58): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(261,103): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(261,58): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(264,102): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(264,57): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(265,102): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(265,57): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(266,102): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(266,57): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(267,102): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(267,57): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(271,20): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(390,46): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(422,54): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(422,89): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(493,29): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(502,99): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(502,62): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(503,98): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(503,61): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(504,97): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(504,61): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(505,98): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(505,62): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(549,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(550,18): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(555,77): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(555,62): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(648,142): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(648,86): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(651,164): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(651,87): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(655,113): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(655,57): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(656,113): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(656,57): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(1073,30): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(1317,75): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(1317,46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(1470,16): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(1488,16): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+D:\Учёба\repos\TP_Project\TP_Project\Shop.h(1496,16): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "/Shop.cpp")
+  
+  Создание кода...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+D:\Учёба\repos\TP_Project\TP_Project\Resource.resx(123,5): error MSB3103: Недопустимый файл Resx. Не удалось найти часть пути "D:\OneDrive\Рабочий стол\CarSimple_1.png"., строка 123, позиция 5.

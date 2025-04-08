@@ -1,0 +1,4 @@
+C:\Users\romas\source\repos\TP_Project\TP_Project\x64\Debug\TP_Project.vcxproj.AssemblyReference.cache
+C:\Users\romas\source\repos\TP_Project\TP_Project\x64\Debug\TP_Project.Intro.resources
+C:\Users\romas\source\repos\TP_Project\TP_Project\x64\Debug\TP_Project.vcxproj.GenerateResource.cache
+C:\Users\romas\source\repos\TP_Project\TP_Project\x64\Debug\TP_Project.Resource.resources
