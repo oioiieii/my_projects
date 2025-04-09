@@ -38,14 +38,14 @@
 
 
 
-1️⃣ **Повторение ООП**  
-2️⃣ **Интерфейсы**  
-3️⃣ **Графы, поиск кратчайшего маршрута**  
-4️⃣ **Задача о максимальном потоке и назначениях**  
-5️⃣ **Деревья: построение, обходы, удаление**  
-6️⃣ **Работа с файлами (XML)**  
-7️⃣ **Работа с БД (MySQL)**  
-8️⃣ **Параллельные вычисления (OpenMP)**
+1) **Повторение ООП**  
+2) **Интерфейсы**  
+3) **Графы, поиск кратчайшего маршрута**  
+4) **Задача о максимальном потоке и назначениях**  
+5) **Деревья: построение, обходы, удаление**  
+6) **Работа с файлами (XML)**  
+7) **Работа с БД (MySQL)**  
+8) **Параллельные вычисления (OpenMP)**
 
 <details>
   <summary>📸 Галерея лабораторных</summary>
@@ -71,35 +71,35 @@
 <div align="center">
 
 <div style="background: #f5f5f5; border: 1px solid #ccc; border-radius: 10px; padding: 10px 20px; width: fit-content; margin-bottom: 10px;">
-  🟢 <b>C++</b><br/>
+  <b>C++</b><br/>
   Базовое знакомство с C-подобными языками: указатели, структуры, простейшие алгоритмы.
 </div>
 
 ⬇️
 
-<div style="background: #f5f5f5; border: 1px solid #ccc; border-radius: 10px; padding: 10px 20px; width: fit-content; margin-bottom: 10px;">
-  🔵 <b>C++/CLI + Windows Forms</b><br/>
+<div style="background: white; border: 1px solid #ccc; border-radius: 10px; padding: 10px 20px; width: fit-content; margin-bottom: 10px;">
+  <b>C++/CLI + Windows Forms</b><br/>
   Первые UI-приложения и работа с формами. Здесь же началось знакомство с ООП.
 </div>
 
 ⬇️
 
 <div style="background: #f5f5f5; border: 1px solid #ccc; border-radius: 10px; padding: 10px 20px; width: fit-content; margin-bottom: 10px;">
-  🟡 <b>C# + Windows Forms</b><br/>
+  <b>C# + Windows Forms</b><br/>
   Углубление в ООП, знакомство с принципами SOLID и переход к более чистому, структурированному и понятному стилю кода.
 </div>
 
 ⬇️
 
 <div style="background: #f5f5f5; border: 1px solid #ccc; border-radius: 10px; padding: 10px 20px; width: fit-content; margin-bottom: 10px;">
-  🟣 <b>WPF (C#)</b><br/>
+  <b>WPF (C#)</b><br/>
   Знакомство с XAML, привязкой данных и адаптивным интерфейсом.
 </div>
 
 ⬇️
 
 <div style="background: #f5f5f5; border: 1px solid #ccc; border-radius: 10px; padding: 10px 20px; width: fit-content;">
-  ⚪ <b>Avalonia UI</b><br/>
+  <b>Avalonia UI</b><br/>
   Появилось понимание MVVM. Сейчас работаю над дипломом на этой технологии, параллельно изучая её глубже.
 </div>
 
