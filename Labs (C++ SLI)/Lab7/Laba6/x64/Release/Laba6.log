@@ -1,0 +1,252 @@
+﻿  CppCLR_WinFormsProject.cpp
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(52,54): warning C4490: override: неправильное использование спецификатора переопределения; "Laba6::Manufacturer::getDynamicFields" не соответствует методу базового класса-ссылки
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+      C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(52,54):
+      "new" или "override" разрешены только, когда существует соответствующий базовый метод из класса ref
+      C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(52,54):
+      Соответствующий базовый метод "Laba6::IDynamicFields::getDynamicFields" происходит из класса интерфейса (а не класса ref)
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(55,32): warning C4490: override: неправильное использование спецификатора переопределения; "Laba6::Manufacturer::getDynamicValues" не соответствует методу базового класса-ссылки
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+      C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(55,32):
+      "new" или "override" разрешены только, когда существует соответствующий базовый метод из класса ref
+      C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(55,32):
+      Соответствующий базовый метод "Laba6::IDynamicFields::getDynamicValues" происходит из класса интерфейса (а не класса ref)
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(135,54): warning C4490: override: неправильное использование спецификатора переопределения; "Laba6::Brand::getDynamicFields" не соответствует методу базового класса-ссылки
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+      C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(135,54):
+      "new" или "override" разрешены только, когда существует соответствующий базовый метод из класса ref
+      C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(135,54):
+      Соответствующий базовый метод "Laba6::IDynamicFields::getDynamicFields" происходит из класса интерфейса (а не класса ref)
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(138,32): warning C4490: override: неправильное использование спецификатора переопределения; "Laba6::Brand::getDynamicValues" не соответствует методу базового класса-ссылки
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+      C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(138,32):
+      "new" или "override" разрешены только, когда существует соответствующий базовый метод из класса ref
+      C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(138,32):
+      Соответствующий базовый метод "Laba6::IDynamicFields::getDynamicValues" происходит из класса интерфейса (а не класса ref)
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(223,54): warning C4490: override: неправильное использование спецификатора переопределения; "Laba6::Owner::getDynamicFields" не соответствует методу базового класса-ссылки
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+      C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(223,54):
+      "new" или "override" разрешены только, когда существует соответствующий базовый метод из класса ref
+      C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(223,54):
+      Соответствующий базовый метод "Laba6::IDynamicFields::getDynamicFields" происходит из класса интерфейса (а не класса ref)
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(226,32): warning C4490: override: неправильное использование спецификатора переопределения; "Laba6::Owner::getDynamicValues" не соответствует методу базового класса-ссылки
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+      C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(226,32):
+      "new" или "override" разрешены только, когда существует соответствующий базовый метод из класса ref
+      C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(226,32):
+      Соответствующий базовый метод "Laba6::IDynamicFields::getDynamicValues" происходит из класса интерфейса (а не класса ref)
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(304,54): warning C4490: override: неправильное использование спецификатора переопределения; "Laba6::Car::getDynamicFields" не соответствует методу базового класса-ссылки
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+      C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(304,54):
+      "new" или "override" разрешены только, когда существует соответствующий базовый метод из класса ref
+      C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(304,54):
+      Соответствующий базовый метод "Laba6::IDynamicFields::getDynamicFields" происходит из класса интерфейса (а не класса ref)
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(307,32): warning C4490: override: неправильное использование спецификатора переопределения; "Laba6::Car::getDynamicValues" не соответствует методу базового класса-ссылки
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+      C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(307,32):
+      "new" или "override" разрешены только, когда существует соответствующий базовый метод из класса ref
+      C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(307,32):
+      Соответствующий базовый метод "Laba6::IDynamicFields::getDynamicValues" происходит из класса интерфейса (а не класса ref)
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(396,54): warning C4490: override: неправильное использование спецификатора переопределения; "Laba6::Registration::getDynamicFields" не соответствует методу базового класса-ссылки
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+      C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(396,54):
+      "new" или "override" разрешены только, когда существует соответствующий базовый метод из класса ref
+      C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(396,54):
+      Соответствующий базовый метод "Laba6::IDynamicFields::getDynamicFields" происходит из класса интерфейса (а не класса ref)
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(399,32): warning C4490: override: неправильное использование спецификатора переопределения; "Laba6::Registration::getDynamicValues" не соответствует методу базового класса-ссылки
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+      C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(399,32):
+      "new" или "override" разрешены только, когда существует соответствующий базовый метод из класса ref
+      C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(399,32):
+      Соответствующий базовый метод "Laba6::IDynamicFields::getDynamicValues" происходит из класса интерфейса (а не класса ref)
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\findElementByCode.h(4,18): warning C4091: static : пропускается слева от "Laba6::findElementByCodeClass", когда ни одна переменная не объявлена
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(12,18): warning C4091: static : пропускается слева от "XmlWorker", когда ни одна переменная не объявлена
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(31,40): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(128,44): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(134,56): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(170,44): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(211,44): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(220,49): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(257,44): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(260,49): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(263,47): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(358,22): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(381,22): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(402,22): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(423,22): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(444,22): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\MainForm.h(1118,67): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+  MainForm.cpp
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(52,54): warning C4490: override: неправильное использование спецификатора переопределения; "Laba6::Manufacturer::getDynamicFields" не соответствует методу базового класса-ссылки
+  (компиляция исходного файла "/MainForm.cpp")
+      C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(52,54):
+      "new" или "override" разрешены только, когда существует соответствующий базовый метод из класса ref
+      C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(52,54):
+      Соответствующий базовый метод "Laba6::IDynamicFields::getDynamicFields" происходит из класса интерфейса (а не класса ref)
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(55,32): warning C4490: override: неправильное использование спецификатора переопределения; "Laba6::Manufacturer::getDynamicValues" не соответствует методу базового класса-ссылки
+  (компиляция исходного файла "/MainForm.cpp")
+      C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(55,32):
+      "new" или "override" разрешены только, когда существует соответствующий базовый метод из класса ref
+      C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(55,32):
+      Соответствующий базовый метод "Laba6::IDynamicFields::getDynamicValues" происходит из класса интерфейса (а не класса ref)
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(135,54): warning C4490: override: неправильное использование спецификатора переопределения; "Laba6::Brand::getDynamicFields" не соответствует методу базового класса-ссылки
+  (компиляция исходного файла "/MainForm.cpp")
+      C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(135,54):
+      "new" или "override" разрешены только, когда существует соответствующий базовый метод из класса ref
+      C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(135,54):
+      Соответствующий базовый метод "Laba6::IDynamicFields::getDynamicFields" происходит из класса интерфейса (а не класса ref)
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(138,32): warning C4490: override: неправильное использование спецификатора переопределения; "Laba6::Brand::getDynamicValues" не соответствует методу базового класса-ссылки
+  (компиляция исходного файла "/MainForm.cpp")
+      C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(138,32):
+      "new" или "override" разрешены только, когда существует соответствующий базовый метод из класса ref
+      C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(138,32):
+      Соответствующий базовый метод "Laba6::IDynamicFields::getDynamicValues" происходит из класса интерфейса (а не класса ref)
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(223,54): warning C4490: override: неправильное использование спецификатора переопределения; "Laba6::Owner::getDynamicFields" не соответствует методу базового класса-ссылки
+  (компиляция исходного файла "/MainForm.cpp")
+      C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(223,54):
+      "new" или "override" разрешены только, когда существует соответствующий базовый метод из класса ref
+      C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(223,54):
+      Соответствующий базовый метод "Laba6::IDynamicFields::getDynamicFields" происходит из класса интерфейса (а не класса ref)
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(226,32): warning C4490: override: неправильное использование спецификатора переопределения; "Laba6::Owner::getDynamicValues" не соответствует методу базового класса-ссылки
+  (компиляция исходного файла "/MainForm.cpp")
+      C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(226,32):
+      "new" или "override" разрешены только, когда существует соответствующий базовый метод из класса ref
+      C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(226,32):
+      Соответствующий базовый метод "Laba6::IDynamicFields::getDynamicValues" происходит из класса интерфейса (а не класса ref)
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(304,54): warning C4490: override: неправильное использование спецификатора переопределения; "Laba6::Car::getDynamicFields" не соответствует методу базового класса-ссылки
+  (компиляция исходного файла "/MainForm.cpp")
+      C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(304,54):
+      "new" или "override" разрешены только, когда существует соответствующий базовый метод из класса ref
+      C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(304,54):
+      Соответствующий базовый метод "Laba6::IDynamicFields::getDynamicFields" происходит из класса интерфейса (а не класса ref)
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(307,32): warning C4490: override: неправильное использование спецификатора переопределения; "Laba6::Car::getDynamicValues" не соответствует методу базового класса-ссылки
+  (компиляция исходного файла "/MainForm.cpp")
+      C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(307,32):
+      "new" или "override" разрешены только, когда существует соответствующий базовый метод из класса ref
+      C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(307,32):
+      Соответствующий базовый метод "Laba6::IDynamicFields::getDynamicValues" происходит из класса интерфейса (а не класса ref)
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(396,54): warning C4490: override: неправильное использование спецификатора переопределения; "Laba6::Registration::getDynamicFields" не соответствует методу базового класса-ссылки
+  (компиляция исходного файла "/MainForm.cpp")
+      C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(396,54):
+      "new" или "override" разрешены только, когда существует соответствующий базовый метод из класса ref
+      C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(396,54):
+      Соответствующий базовый метод "Laba6::IDynamicFields::getDynamicFields" происходит из класса интерфейса (а не класса ref)
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(399,32): warning C4490: override: неправильное использование спецификатора переопределения; "Laba6::Registration::getDynamicValues" не соответствует методу базового класса-ссылки
+  (компиляция исходного файла "/MainForm.cpp")
+      C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(399,32):
+      "new" или "override" разрешены только, когда существует соответствующий базовый метод из класса ref
+      C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(399,32):
+      Соответствующий базовый метод "Laba6::IDynamicFields::getDynamicValues" происходит из класса интерфейса (а не класса ref)
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\findElementByCode.h(4,18): warning C4091: static : пропускается слева от "Laba6::findElementByCodeClass", когда ни одна переменная не объявлена
+  (компиляция исходного файла "/MainForm.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(12,18): warning C4091: static : пропускается слева от "XmlWorker", когда ни одна переменная не объявлена
+  (компиляция исходного файла "/MainForm.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(31,40): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/MainForm.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(128,44): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/MainForm.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(134,56): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/MainForm.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(170,44): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/MainForm.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(211,44): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/MainForm.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(220,49): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/MainForm.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(257,44): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/MainForm.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(260,49): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/MainForm.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(263,47): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/MainForm.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(358,22): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/MainForm.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(381,22): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/MainForm.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(402,22): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/MainForm.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(423,22): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/MainForm.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(444,22): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/MainForm.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\MainForm.h(1118,67): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/MainForm.cpp")
+  
+  Создание кода...
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Laba6.vcxproj -> C:\Users\romas\source\repos\iT1P\Laba6 — копия\x64\Release\Laba6.exe
+  C:\Program Files\MySQL\MySQL Connector C++ 9.1\lib64\libcrypto-3-x64.dll
+  C:\Program Files\MySQL\MySQL Connector C++ 9.1\lib64\libssl-3-x64.dll
+  C:\Program Files\MySQL\MySQL Connector C++ 9.1\lib64\mysqlcppconn-10-vs14.dll
+  C:\Program Files\MySQL\MySQL Connector C++ 9.1\lib64\mysqlcppconnx-2-vs14.dll
+  ╤ъюяшЁютрэю Їрщыют: 4.

@@ -1,0 +1,3 @@
+C:\Users\romas\source\repos\iT1P\Laba_4\Laba_4\x64\Debug\Laba_4.vcxproj.AssemblyReference.cache
+C:\Users\romas\source\repos\iT1P\Laba_4\Laba_4\x64\Debug\Laba_4.Form1.resources
+C:\Users\romas\source\repos\iT1P\Laba_4\Laba_4\x64\Debug\Laba_4.vcxproj.GenerateResource.cache

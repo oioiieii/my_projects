@@ -1,0 +1,145 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  CppCLR_WinFormsProject.cpp
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(168,18): warning C4677: brand: сигнатура члена, не являющегося частным, содержит частный тип сборки "Laba6::Brand"
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+      C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(72,15):
+       см. объявление "Laba6::Brand"
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(180,12): warning C4677: Car: сигнатура члена, не являющегося частным, содержит частный тип сборки "Laba6::Brand"
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+      C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(72,15):
+       см. объявление "Laba6::Brand"
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(188,12): warning C4677: Car: сигнатура члена, не являющегося частным, содержит частный тип сборки "Laba6::Brand"
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+      C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(72,15):
+       см. объявление "Laba6::Brand"
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(197,12): warning C4677: Car: сигнатура члена, не являющегося частным, содержит частный тип сборки "Laba6::Brand"
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+      C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(72,15):
+       см. объявление "Laba6::Brand"
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(10,18): warning C4091: static : пропускается слева от "XmlWorker", когда ни одна переменная не объявлена
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(26,40): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(60,40): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(68,52): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(93,40): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(121,40): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(130,45): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(153,40): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(156,45): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(159,43): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(243,22): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(266,22): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(287,22): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(308,22): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(329,22): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\MainForm.h(912,67): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+  Form1.cpp
+  MainForm.cpp
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(168,18): warning C4677: brand: сигнатура члена, не являющегося частным, содержит частный тип сборки "Laba6::Brand"
+  (компиляция исходного файла "/MainForm.cpp")
+      C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(72,15):
+       см. объявление "Laba6::Brand"
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(180,12): warning C4677: Car: сигнатура члена, не являющегося частным, содержит частный тип сборки "Laba6::Brand"
+  (компиляция исходного файла "/MainForm.cpp")
+      C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(72,15):
+       см. объявление "Laba6::Brand"
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(188,12): warning C4677: Car: сигнатура члена, не являющегося частным, содержит частный тип сборки "Laba6::Brand"
+  (компиляция исходного файла "/MainForm.cpp")
+      C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(72,15):
+       см. объявление "Laba6::Brand"
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(197,12): warning C4677: Car: сигнатура члена, не являющегося частным, содержит частный тип сборки "Laba6::Brand"
+  (компиляция исходного файла "/MainForm.cpp")
+      C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\classes.h(72,15):
+       см. объявление "Laba6::Brand"
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(10,18): warning C4091: static : пропускается слева от "XmlWorker", когда ни одна переменная не объявлена
+  (компиляция исходного файла "/MainForm.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(26,40): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/MainForm.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(60,40): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/MainForm.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(68,52): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/MainForm.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(93,40): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/MainForm.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(121,40): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/MainForm.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(130,45): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/MainForm.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(153,40): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/MainForm.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(156,45): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/MainForm.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(159,43): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/MainForm.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(243,22): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/MainForm.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(266,22): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/MainForm.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(287,22): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/MainForm.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(308,22): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/MainForm.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\XmlWorker.h(329,22): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/MainForm.cpp")
+  
+C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\MainForm.h(912,67): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/MainForm.cpp")
+  
+  Создание кода...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Laba6.vcxproj -> C:\Users\romas\source\repos\iT1P\Laba6 — копия\x64\Debug\Laba6.exe

@@ -1,0 +1,29 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  CppCLR_WinFormsProject.cpp
+C:\Users\oioii\source\repos\oioiieii\my_projects\CoffeeMachine\CoffeeMachine\Human.h(40,50): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\oioii\source\repos\oioiieii\my_projects\CoffeeMachine\CoffeeMachine\Human.h(40,22): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+C:\Users\oioii\source\repos\oioiieii\my_projects\CoffeeMachine\CoffeeMachine\Human.h(213,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+  Cup.cpp
+  Form1.cpp
+  Human.cpp
+C:\Users\oioii\source\repos\oioiieii\my_projects\CoffeeMachine\CoffeeMachine\Human.h(40,50): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/Human.cpp")
+  
+C:\Users\oioii\source\repos\oioiieii\my_projects\CoffeeMachine\CoffeeMachine\Human.h(40,22): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/Human.cpp")
+  
+C:\Users\oioii\source\repos\oioiieii\my_projects\CoffeeMachine\CoffeeMachine\Human.h(213,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "/Human.cpp")
+  
+  Machine.cpp
+  Создание кода...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  CoffeeMachine.vcxproj -> C:\Users\oioii\source\repos\oioiieii\my_projects\CoffeeMachine\x64\Debug\CoffeeMachine.exe

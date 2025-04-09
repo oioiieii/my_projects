@@ -1,0 +1,8 @@
+C:\Users\romas\source\repos\iT1P\Laba5\Laba5\x64\Debug\Laba5.vcxproj.AssemblyReference.cache
+C:\Users\romas\source\repos\iT1P\Laba5\Laba5\x64\Debug\Laba5.MainForm.resources
+C:\Users\romas\source\repos\iT1P\Laba5\Laba5\x64\Debug\Laba5.vcxproj.GenerateResource.cache
+C:\Users\romas\source\repos\iT1P\Laba5\Laba5\x64\Debug\Laba5.Form1.resources
+D:\Учёба\МТУСИ\5 семест\ИТИП\Лабораторная работа 5\Laba5\Laba5\x64\Debug\Laba5.vcxproj.AssemblyReference.cache
+D:\Учёба\МТУСИ\5 семест\ИТИП\Лабораторная работа 5\Laba5\Laba5\x64\Debug\Laba5.Form1.resources
+D:\Учёба\МТУСИ\5 семест\ИТИП\Лабораторная работа 5\Laba5\Laba5\x64\Debug\Laba5.MainForm.resources
+D:\Учёба\МТУСИ\5 семест\ИТИП\Лабораторная работа 5\Laba5\Laba5\x64\Debug\Laba5.vcxproj.GenerateResource.cache

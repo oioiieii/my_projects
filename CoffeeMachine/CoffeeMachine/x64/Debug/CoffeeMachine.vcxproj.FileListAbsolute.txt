@@ -1,0 +1,3 @@
+C:\Users\oioii\source\repos\oioiieii\my_projects\CoffeeMachine\CoffeeMachine\x64\Debug\CoffeeMachine.vcxproj.AssemblyReference.cache
+C:\Users\oioii\source\repos\oioiieii\my_projects\CoffeeMachine\CoffeeMachine\x64\Debug\CoffeeMachine.Form1.resources
+C:\Users\oioii\source\repos\oioiieii\my_projects\CoffeeMachine\CoffeeMachine\x64\Debug\CoffeeMachine.vcxproj.GenerateResource.cache

@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  Lab1.cpp
+D:\Учёба\МТУСИ\5 семест\ИТИП\Лабораторная работа 1\Lab1\Lab1\organization.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  (компиляция исходного файла "/Lab1.cpp")
+  
+  Создание кода...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Lab1.vcxproj -> D:\Учёба\МТУСИ\5 семест\ИТИП\Лабораторная работа 1\Lab1\x64\Debug\Lab1.exe

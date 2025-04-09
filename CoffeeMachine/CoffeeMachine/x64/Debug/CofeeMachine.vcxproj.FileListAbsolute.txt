@@ -1,0 +1,9 @@
+C:\Users\romas\source\repos\CofeeMachine\CofeeMachine\x64\Debug\CofeeMachine.vcxproj.AssemblyReference.cache
+C:\Users\romas\source\repos\CofeeMachine\CofeeMachine\x64\Debug\CofeeMachine.Form1.resources
+C:\Users\romas\source\repos\CofeeMachine\CofeeMachine\x64\Debug\CofeeMachine.vcxproj.GenerateResource.cache
+D:\Учёба\repos\CofeeMachine\CofeeMachine\x64\Debug\CofeeMachine.vcxproj.AssemblyReference.cache
+D:\Учёба\repos\CofeeMachine\CofeeMachine\x64\Debug\CofeeMachine.Form1.resources
+D:\Учёба\repos\CofeeMachine\CofeeMachine\x64\Debug\CofeeMachine.vcxproj.GenerateResource.cache
+C:\Users\oioii\source\repos\oioiieii\my_projects\CoffeeMachine\CofeeMachine\x64\Debug\CofeeMachine.vcxproj.AssemblyReference.cache
+C:\Users\oioii\source\repos\oioiieii\my_projects\CoffeeMachine\CofeeMachine\x64\Debug\CofeeMachine.Form1.resources
+C:\Users\oioii\source\repos\oioiieii\my_projects\CoffeeMachine\CofeeMachine\x64\Debug\CofeeMachine.vcxproj.GenerateResource.cache
