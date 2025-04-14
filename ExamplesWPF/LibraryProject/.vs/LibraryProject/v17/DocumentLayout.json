@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oioii\\source\\repos\\LibraryProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F5E4CF-0806-44F7-9987-74DD4D19AA55}|LibraryProject\\LibraryProject.WPF.csproj|c:\\users\\oioii\\source\\repos\\libraryproject\\libraryproject\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A3F5E4CF-0806-44F7-9987-74DD4D19AA55}|LibraryProject\\LibraryProject.WPF.csproj|solutionrelative:libraryproject\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F5E4CF-0806-44F7-9987-74DD4D19AA55}|LibraryProject\\LibraryProject.WPF.csproj|c:\\users\\oioii\\source\\repos\\libraryproject\\libraryproject\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F5E4CF-0806-44F7-9987-74DD4D19AA55}|LibraryProject\\LibraryProject.WPF.csproj|solutionrelative:libraryproject\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DCC697-8336-4565-922B-FD2D656CFD25}|LibraryProject.Infrastructure\\LibraryProject.Infrastructure.csproj|c:\\users\\oioii\\source\\repos\\libraryproject\\libraryproject.infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72DCC697-8336-4565-922B-FD2D656CFD25}|LibraryProject.Infrastructure\\LibraryProject.Infrastructure.csproj|solutionrelative:libraryproject.infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DCC697-8336-4565-922B-FD2D656CFD25}|LibraryProject.Infrastructure\\LibraryProject.Infrastructure.csproj|c:\\users\\oioii\\source\\repos\\libraryproject\\libraryproject.infrastructure\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72DCC697-8336-4565-922B-FD2D656CFD25}|LibraryProject.Infrastructure\\LibraryProject.Infrastructure.csproj|solutionrelative:libraryproject.infrastructure\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DCC697-8336-4565-922B-FD2D656CFD25}|LibraryProject.Infrastructure\\LibraryProject.Infrastructure.csproj|c:\\users\\oioii\\source\\repos\\libraryproject\\libraryproject.infrastructure\\repositories\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72DCC697-8336-4565-922B-FD2D656CFD25}|LibraryProject.Infrastructure\\LibraryProject.Infrastructure.csproj|solutionrelative:libraryproject.infrastructure\\repositories\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F5E4CF-0806-44F7-9987-74DD4D19AA55}|LibraryProject\\LibraryProject.WPF.csproj|c:\\users\\oioii\\source\\repos\\libraryproject\\libraryproject\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F5E4CF-0806-44F7-9987-74DD4D19AA55}|LibraryProject\\LibraryProject.WPF.csproj|solutionrelative:libraryproject\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F5E4CF-0806-44F7-9987-74DD4D19AA55}|LibraryProject\\LibraryProject.WPF.csproj|c:\\users\\oioii\\source\\repos\\libraryproject\\libraryproject\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F5E4CF-0806-44F7-9987-74DD4D19AA55}|LibraryProject\\LibraryProject.WPF.csproj|solutionrelative:libraryproject\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DCC697-8336-4565-922B-FD2D656CFD25}|LibraryProject.Infrastructure\\LibraryProject.Infrastructure.csproj|c:\\users\\oioii\\source\\repos\\libraryproject\\libraryproject.infrastructure\\libraryproject.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{72DCC697-8336-4565-922B-FD2D656CFD25}|LibraryProject.Infrastructure\\LibraryProject.Infrastructure.csproj|solutionrelative:libraryproject.infrastructure\\libraryproject.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DCC697-8336-4565-922B-FD2D656CFD25}|LibraryProject.Infrastructure\\LibraryProject.Infrastructure.csproj|c:\\users\\oioii\\source\\repos\\libraryproject\\libraryproject.infrastructure\\libraryproject.infrastructure.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{72DCC697-8336-4565-922B-FD2D656CFD25}|LibraryProject.Infrastructure\\LibraryProject.Infrastructure.csproj|solutionrelative:libraryproject.infrastructure\\libraryproject.infrastructure.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F5E4CF-0806-44F7-9987-74DD4D19AA55}|LibraryProject\\LibraryProject.WPF.csproj|c:\\users\\oioii\\source\\repos\\libraryproject\\libraryproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A3F5E4CF-0806-44F7-9987-74DD4D19AA55}|LibraryProject\\LibraryProject.WPF.csproj|solutionrelative:libraryproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DCC697-8336-4565-922B-FD2D656CFD25}|LibraryProject.Infrastructure\\LibraryProject.Infrastructure.csproj|c:\\users\\oioii\\source\\repos\\libraryproject\\libraryproject.infrastructure\\database\\libraryprojectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72DCC697-8336-4565-922B-FD2D656CFD25}|LibraryProject.Infrastructure\\LibraryProject.Infrastructure.csproj|solutionrelative:libraryproject.infrastructure\\database\\libraryprojectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LibraryProject.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\oioii\\source\\repos\\LibraryProject\\LibraryProject.Infrastructure\\LibraryProject.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "LibraryProject.Infrastructure\\LibraryProject.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\oioii\\source\\repos\\LibraryProject\\LibraryProject.Infrastructure\\LibraryProject.Infrastructure.csproj",
+              "RelativeToolTip": "LibraryProject.Infrastructure\\LibraryProject.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-13T18:09:42.396Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LibraryProject.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\oioii\\source\\repos\\LibraryProject\\LibraryProject.Infrastructure\\LibraryProject.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "LibraryProject.Infrastructure\\LibraryProject.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\oioii\\source\\repos\\LibraryProject\\LibraryProject.Infrastructure\\LibraryProject.Infrastructure.csproj",
+              "RelativeToolTip": "LibraryProject.Infrastructure\\LibraryProject.Infrastructure.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-13T18:09:43.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\oioii\\source\\repos\\LibraryProject\\LibraryProject\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "LibraryProject\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\oioii\\source\\repos\\LibraryProject\\LibraryProject\\AssemblyInfo.cs",
+              "RelativeToolTip": "LibraryProject\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T17:49:30.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\oioii\\source\\repos\\LibraryProject\\LibraryProject\\appsettings.json",
+              "RelativeDocumentMoniker": "LibraryProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\oioii\\source\\repos\\LibraryProject\\LibraryProject\\appsettings.json",
+              "RelativeToolTip": "LibraryProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-13T17:49:14.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LibraryProjectDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\oioii\\source\\repos\\LibraryProject\\LibraryProject.Infrastructure\\Database\\LibraryProjectDbContext.cs",
+              "RelativeDocumentMoniker": "LibraryProject.Infrastructure\\Database\\LibraryProjectDbContext.cs",
+              "ToolTip": "C:\\Users\\oioii\\source\\repos\\LibraryProject\\LibraryProject.Infrastructure\\Database\\LibraryProjectDbContext.cs",
+              "RelativeToolTip": "LibraryProject.Infrastructure\\Database\\LibraryProjectDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T17:38:57.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\oioii\\source\\repos\\LibraryProject\\LibraryProject\\App.xaml.cs",
+              "RelativeDocumentMoniker": "LibraryProject\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\oioii\\source\\repos\\LibraryProject\\LibraryProject\\App.xaml.cs",
+              "RelativeToolTip": "LibraryProject\\App.xaml.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAQwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T17:26:18.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\oioii\\source\\repos\\LibraryProject\\LibraryProject\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "LibraryProject\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\oioii\\source\\repos\\LibraryProject\\LibraryProject\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "LibraryProject\\ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwEgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T10:32:53.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\oioii\\source\\repos\\LibraryProject\\LibraryProject.Infrastructure\\Repositories\\Interfaces\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "LibraryProject.Infrastructure\\Repositories\\Interfaces\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\oioii\\source\\repos\\LibraryProject\\LibraryProject.Infrastructure\\Repositories\\Interfaces\\IBookRepository.cs",
+              "RelativeToolTip": "LibraryProject.Infrastructure\\Repositories\\Interfaces\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:54:54.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\oioii\\source\\repos\\LibraryProject\\LibraryProject\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LibraryProject\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\oioii\\source\\repos\\LibraryProject\\LibraryProject\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "LibraryProject\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-13T10:32:50.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\oioii\\source\\repos\\LibraryProject\\LibraryProject.Infrastructure\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "LibraryProject.Infrastructure\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\oioii\\source\\repos\\LibraryProject\\LibraryProject.Infrastructure\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "LibraryProject.Infrastructure\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:47:29.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\oioii\\source\\repos\\LibraryProject\\LibraryProject.Infrastructure\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryProject.Infrastructure\\Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\oioii\\source\\repos\\LibraryProject\\LibraryProject.Infrastructure\\Entities\\Book.cs",
+              "RelativeToolTip": "LibraryProject.Infrastructure\\Entities\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:47:25.459Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

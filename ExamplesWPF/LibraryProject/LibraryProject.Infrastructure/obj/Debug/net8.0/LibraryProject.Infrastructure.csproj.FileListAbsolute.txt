@@ -1,0 +1,14 @@
+C:\Users\oioii\source\repos\LibraryProject\LibraryProject.Infrastructure\bin\Debug\net8.0\LibraryProject.Infrastructure.deps.json
+C:\Users\oioii\source\repos\LibraryProject\LibraryProject.Infrastructure\bin\Debug\net8.0\LibraryProject.Infrastructure.runtimeconfig.json
+C:\Users\oioii\source\repos\LibraryProject\LibraryProject.Infrastructure\bin\Debug\net8.0\LibraryProject.Infrastructure.dll
+C:\Users\oioii\source\repos\LibraryProject\LibraryProject.Infrastructure\bin\Debug\net8.0\LibraryProject.Infrastructure.pdb
+C:\Users\oioii\source\repos\LibraryProject\LibraryProject.Infrastructure\obj\Debug\net8.0\LibraryProject.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\oioii\source\repos\LibraryProject\LibraryProject.Infrastructure\obj\Debug\net8.0\LibraryProject.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oioii\source\repos\LibraryProject\LibraryProject.Infrastructure\obj\Debug\net8.0\LibraryProject.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\oioii\source\repos\LibraryProject\LibraryProject.Infrastructure\obj\Debug\net8.0\LibraryProject.Infrastructure.AssemblyInfo.cs
+C:\Users\oioii\source\repos\LibraryProject\LibraryProject.Infrastructure\obj\Debug\net8.0\LibraryProject.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\oioii\source\repos\LibraryProject\LibraryProject.Infrastructure\obj\Debug\net8.0\LibraryProject.Infrastructure.dll
+C:\Users\oioii\source\repos\LibraryProject\LibraryProject.Infrastructure\obj\Debug\net8.0\refint\LibraryProject.Infrastructure.dll
+C:\Users\oioii\source\repos\LibraryProject\LibraryProject.Infrastructure\obj\Debug\net8.0\LibraryProject.Infrastructure.pdb
+C:\Users\oioii\source\repos\LibraryProject\LibraryProject.Infrastructure\obj\Debug\net8.0\LibraryProject.Infrastructure.genruntimeconfig.cache
+C:\Users\oioii\source\repos\LibraryProject\LibraryProject.Infrastructure\obj\Debug\net8.0\ref\LibraryProject.Infrastructure.dll

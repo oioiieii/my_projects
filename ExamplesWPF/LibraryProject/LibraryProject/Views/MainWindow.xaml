@@ -1,0 +1,50 @@
+﻿<Window x:Class="LibraryProject.WPF.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LibraryProject.WPF.Views"
+        xmlns:controls="clr-namespace:LibraryProject.WPF.Views.Controls"
+        xmlns:converters="clr-namespace:LibraryProject.WPF.Views.Converters"
+        xmlns:vm="clr-namespace:LibraryProject.WPF.ViewModels"
+        mc:Ignorable="d"
+        FontFamily="Cascadia Mono"
+        WindowStartupLocation="CenterScreen"
+        FontSize="15"
+        Title="Работа с Entity Framework (Онлайн бронирование книг в библиотеках)" Height="523" Width="1200">
+    <Window.Resources>
+        <converters:StringBuilderToStringConverter x:Key="SbToString" />
+    </Window.Resources>
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel>
+            <controls:BorderWithStep NumStep="1">
+                <StackPanel>
+                    <TextBlock DockPanel.Dock="Top" Padding=" 0 5 0 0" Text="Введите свое ФИО:"/>
+                    <TextBox Text="{Binding UserNameTextBox}" DockPanel.Dock="Top" Margin="0 10" Padding="2 5"/>
+
+                    <Button Content="Подтвердить" DockPanel.Dock="Bottom" VerticalAlignment="Bottom" Margin="0 30 0 0" Height="30" Command="{Binding ConfirmUserCommand}"/>
+                </StackPanel>
+            </controls:BorderWithStep>
+            <controls:BorderWithStep NumStep="2" Grid.Row="1" IsEnabled="{Binding UserIdentified}">
+                <DockPanel>
+                    <TextBlock DockPanel.Dock="Top" Padding=" 0 5 0 0" Text="Выберите библиотеку, в которой хотите взять книгу:"/>
+                    <ComboBox DockPanel.Dock="Top" Margin="0 10" ItemsSource="{Binding Libraries}" DisplayMemberPath="Name" SelectedItem="{Binding SelectedLibrary, Mode=TwoWay}"/>
+                    <TextBlock DockPanel.Dock="Top" Padding=" 0 5 0 0" Text="Выберите доступную книгу:"/>
+                    <ComboBox DockPanel.Dock="Top" Margin="0 10" ItemsSource="{Binding Books}" DisplayMemberPath="Title" SelectedItem="{Binding SelectedBook, Mode=TwoWay}"/>
+
+                    <Button Content="Забронировать" DockPanel.Dock="Bottom" VerticalAlignment="Bottom" Margin="0 30 0 0" Height="30" Command="{Binding RentBookCommand}"/>
+                </DockPanel>
+            </controls:BorderWithStep>
+        </StackPanel>
+        <DockPanel Grid.Column="1" Margin="20">
+            <TextBlock DockPanel.Dock="Top" Text="Информация о проведенных операциях" Padding="10" TextAlignment="Center"></TextBlock>
+            <TextBox IsReadOnly="True" Text="{Binding LogText, Converter={StaticResource SbToString}}" Grid.Column="1"/>
+        </DockPanel>
+    </Grid>
+</Window>
