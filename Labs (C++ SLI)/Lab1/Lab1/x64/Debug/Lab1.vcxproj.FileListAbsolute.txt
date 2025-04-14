@@ -1,2 +1,0 @@
-C:\Users\romas\source\repos\iT1P\Lab1\Lab1\x64\Debug\Lab1.vcxproj.AssemblyReference.cache
-D:\Учёба\МТУСИ\5 семест\ИТИП\Лабораторная работа 1\Lab1\Lab1\x64\Debug\Lab1.vcxproj.AssemblyReference.cache

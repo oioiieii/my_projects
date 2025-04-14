@@ -1,0 +1,55 @@
+﻿<Window x:Class="AsyncFileDownloader.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AsyncFileDownloader.Views"
+        xmlns:converters="clr-namespace:AsyncFileDownloader.Views.Converters"
+        xmlns:vm="clr-namespace:AsyncFileDownloader.ViewModels"
+        FontSize="20"
+        mc:Ignorable="d"
+        Title="Асинхронное программирование" Height="700" Width="1264">
+    <Window.DataContext>
+        <vm:MainWinodwViewModel/>
+    </Window.DataContext>
+    <Window.Resources>
+        <converters:StatusFileToStringConverter x:Key="StatusFileConverter"/>
+    </Window.Resources>
+    <Grid Margin="30">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock Text="Приложение ЭМУЛИРУЕТ асинхронное скачивание n файлов (одновременно максимум 5)" TextAlignment="Center" Padding="30" FontStyle="Italic"></TextBlock>
+        <Grid Grid.Row="1" HorizontalAlignment="Center">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock VerticalAlignment="Center" Padding="7" Text="Введите количество файлов n, которые нужно скачать" Margin="20"></TextBlock>
+            <TextBox Grid.Column="1" Height="30" MinWidth="70" Text="{Binding CountFiles}" />
+            <Button Grid.Column="2" Content="Скачать" HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="30 0" Command="{Binding StartDownloadingCommand}" Padding="50 8"/>
+        </Grid>
+        <StackPanel Grid.Row="2" >
+            <TextBlock Text="Прогресс загрузки:" TextAlignment="Center" Margin="0 10 0 0"></TextBlock>
+            <ProgressBar Height="20" Value="{Binding ProgressValue}" Maximum="100" Minimum="0" Margin="20 10" />
+        </StackPanel>
+        <TextBox Grid.Row="3" IsReadOnly="True" Text="{Binding TextLog}" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="20 20 20 0"/>
+
+
+        <DataGrid Grid.Column="1" ItemsSource="{Binding Files}" Grid.RowSpan="4" AutoGenerateColumns="False" IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Номер файла" Binding="{Binding NumFile}" />
+                <DataGridTextColumn Header="Статус файла" Binding="{Binding StatusFile, Converter={StaticResource StatusFileConverter}}" />
+            </DataGrid.Columns>
+        </DataGrid>
+
+    </Grid>
+</Window>

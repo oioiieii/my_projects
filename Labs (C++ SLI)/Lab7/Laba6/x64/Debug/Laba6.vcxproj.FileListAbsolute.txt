@@ -1,6 +1,0 @@
-C:\Users\romas\source\repos\iT1P\Laba6\Laba6\x64\Debug\Laba6.vcxproj.AssemblyReference.cache
-C:\Users\romas\source\repos\iT1P\Laba6\Laba6\x64\Debug\Laba6.MainForm.resources
-C:\Users\romas\source\repos\iT1P\Laba6\Laba6\x64\Debug\Laba6.vcxproj.GenerateResource.cache
-C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\x64\Debug\Laba6.vcxproj.AssemblyReference.cache
-C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\x64\Debug\Laba6.MainForm.resources
-C:\Users\romas\source\repos\iT1P\Laba6 — копия\Laba6\x64\Debug\Laba6.vcxproj.GenerateResource.cache

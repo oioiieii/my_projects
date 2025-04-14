@@ -1,9 +1,0 @@
-﻿  CppCLR_WinFormsProject.cpp
-C:\Users\romas\source\repos\iT1P\Laba_4\Laba_4\CppCLR_WinFormsProject.cpp(1,10): warning C4651: параметр "/D__CLR_VER=40809277" указан для предкомпилированного заголовка, но не для текущей компиляции
-  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
-  
-C:\Users\romas\source\repos\iT1P\Laba_4\Laba_4\Form1.h(1153,23): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
-  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
-  
-  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
-  Laba_4.vcxproj -> C:\Users\romas\source\repos\iT1P\Laba_4\x64\Debug\Laba_4.exe

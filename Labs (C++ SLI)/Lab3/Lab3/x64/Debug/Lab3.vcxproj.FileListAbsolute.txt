@@ -1,3 +1,0 @@
-C:\Users\romas\source\repos\iT1P\Lab3\Lab3\x64\Debug\Lab3.vcxproj.AssemblyReference.cache
-C:\Users\romas\source\repos\iT1P\Lab3\Lab3\x64\Debug\Lab3.Form1.resources
-C:\Users\romas\source\repos\iT1P\Lab3\Lab3\x64\Debug\Lab3.vcxproj.GenerateResource.cache
